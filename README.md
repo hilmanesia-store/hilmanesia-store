@@ -1,6 +1,6 @@
 # 🛒 Hilmanesia Store
 
-**Hilmanesia Store** adalah platform katalog dan pemesanan layanan digital/cetak berbasis web yang dirancang untuk mempermudah transaksi produk kreatif, cetak spanduk, banner, sticker, dan jasa desain secara cepat dan terintegrasi.
+**Hilmanesia Store** adalah platform pemesanan layanan digital/cetak berbasis web yang dirancang untuk mempermudah transaksi produk kreatif, cetak spanduk, banner, sticker, foto dan jasa desain secara cepat dan terintegrasi.
 
 ---
 
